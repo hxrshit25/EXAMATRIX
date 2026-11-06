@@ -1,0 +1,6 @@
+{
+  "name": "EXAMATRIX - Intelligent Examination Seating Allocation System",
+  "description": "Enterprise university examination seating allocation and management system featuring constraint-based seating algorithms, visual classroom floorplans, invigilator scheduling, attendance registers, and compliance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
